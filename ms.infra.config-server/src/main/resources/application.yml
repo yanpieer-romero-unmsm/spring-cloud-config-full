@@ -9,4 +9,4 @@ spring:
       enabled: true
       server:
         git:
-          uri: C:\Users\HP 600\Downloads\microservicios\git-config\ms-config-repository
+          uri: C:\Users\X11608\Documents\Personal\Backend\Microservices\ms-config-repository
